@@ -72,19 +72,71 @@
    
 * * *
 
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#06: Forward Momentum</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the 3 Shore Artilleries located at the north west section of the map. Unlocks the **Extra Naval Route Opened?** precondition in CR#07.
+
+### Preconditions Used In This Mission:
+* **All Churches Destroyed?** - Whether all 5 churches were destroyed from CR#01 to CR#05.
+	* Effect: Causes the civilians to sabotage the bridge connecting to the east island from the south and sets the player and the civilians hostile to each other.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#07: Snowhopper</summary>
+
+### Preconditions Unlocked In This Mission:
+* Evacuate the civilians at the southern island by destroying the Shore Artilleries preventing the transport from leaving. Can only be done with the **All Churches Destroyed?** precondition set to "No". Unlocks the **Civilians Evacuated?** precondition in CR#08.
+* Kill all the civilians at the southern island and the Soviet base that accompanies them. Can only be done with the **All Churches Destroyed** set to "Yes". Unlocks the **Civilian Village Destroyed?** precondition in CR#08.
+
+### Preconditions Used In This Mission:
+* **Extra Naval Route Opened?** - Whether the 3 Shore Artilleries were destroyed at CR#06.
+	* Effect: Spawns 3 additional GDI reinforcements of 3 Frigates and 2 Gunboats some time after reaching the second main island. 
+* **All Churches Destroyed?** - Whether all 5 churches were destroyed from CR#01 to CR#05.
+	* Effect: Causes the civilians to side with the Soviets, assisting them in creating a base at the southern island. Adds a new mandatory objective to destroy the new southern Soviet base and the entire village, and adjusts some of the texts of the map.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#08: The Cleaver</summary>
+
+### Preconditions Unlocked In This Mission:
+* None.
+
+### Preconditions Used In This Mission:
+* **Civilians Evacuated?** - Whether the civilians evacuated in CR#07.
+	* Effect: Allows the player to investigate the outskirts of the village, which unlocks Route B.
+* **Civilian Village Destroyed?** - Whether the civilian village was destroyed in CR#07.
+	* Effect: Turns the civilian population against the player, siding with Nod and Soviet. Spawns dangerous waves of armed civilians militants that carry various firearms trying to take you down. Completing this mission with this precondition active will unlock Route C.
+
+### Important Notes For This Mission:
+* As long as **Civilian Village Destroyed?** precondition is set to "No", the player will automatically unlock Route A by beating this mission.
+* This mission's preconditions are mutually exclusive. If both of the preconditions are set to "Yes", the game client will show a message to the player explaining that the mission cannot be launched using this preconditions set. The player will have to set at least one of the two preconditions to "No" to launch the mission.
+
+</details>
+   
+* * *
+
+# Route A
+
+* * *
+
+# Route B
+
+* * *
+
+# Route C
+
+* * *
 
 # Guide to Preconditions in the Covert Revolt Campaign
 
-
-CR#05: ||Riposte|| - ||Church #3 Destroyed? Whether the church in the civilian village was destroyed in the third mission of the campaign.|| Use: ||Needed to unlock Route C.||
-
-||Oil Refineries Captured? Were the northwestern Oil Refineries captured and preserved during mission #3?|| Use: ||Gives you 2000 more credits in this mission.||
-
-CR#06: ||Forward Momentum|| - ||All Churches Destroyed? Whether all 3 churches were destroyed in the fifth mission of the campaign.|| Use: ||Needed to unlock Route C.||
-
-CR#07: ||Snowhopper|| - ||Extra Naval Route Opened? Were the coastal artillery turrets destroyed in mission #6?|| Use: ||Gives you extra ships in this mission.||
-
-||All Churches Destroyed? Whether all 3 churches were destroyed in the fifth mission of the campaign.|| Use: ||Needed to unlock Route C.||
 
 CR#08: ||The Cleaver|| - ||Civilians Evacuated? Were the civilians evacuated in mission #7?|| Use: ||Needed to unlock Route B.||
 
