@@ -1,4 +1,4 @@
-<p style="font-size:28px">Click on a mission from the list below to reveal its preconditions!</p>
+<h2>Click on a mission from the list below to reveal its preconditions</h2>
 
 <details style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#01: Suppression</summary>
