@@ -17,10 +17,10 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south side of the map with the precondition Church #1 Destroyed? enabled. Unlocks the precondition **Church #2 Destroyed?** in CR#03.
+* Destroy a church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. Unlocks the precondition **Church #2 Destroyed?** in CR#03.
 
 ### Preconditions Used In This Mission:
-* Church #1 Destroyed? - Whether the church in the civilian village was destroyed in CR#01.
+* **Church #1 Destroyed?** - Whether the church in the civilian village was destroyed in CR#01.
 	* Effect: Causes the priest at the church to betray you, unleashing two attack dogs at you when you approach the church. Required to unlock Route C.
 
 </details>
@@ -31,28 +31,50 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#03: Retake the Industrial Area</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition **Church #3 Destroyed?** in CR#05.
+* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition **Church #3 Destroyed?** in CR#04 and CR#05.
 * Capture and Keep the Oil Refineries at the north western part of the map. Unlocks the precondition **Oil Refineries Captured?** in CR#05.
 
 ### Preconditions Used In This Mission:
-* Church #2 Destroyed? - Whether the church in the south part of the region was destroyed in CR#02. 
-	* Effect: Causes civilians to launch an attack wave on you during the mission..
-    Required to unlock Route C.
+* **Church #2 Destroyed?** - Whether the church in the south part of the region was destroyed in CR#02. 
+	* Effect: Causes civilians to launch an attack wave on you during the mission.     Required to unlock Route C.
 
 </details>
    
 * * *
-    
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#04: Obstruction</summary>
+
+### Preconditions Unlocked In This Mission:
+* None.
+
+### Preconditions Used In This Mission:
+* **Church #3 Destroyed?** - Whether the church in the civilian village was destroyed in CR#03.
+	* Effect: Causes civilians to attack your forces when you come near a civilian hub.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#05: Riposte</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the 3 remaining churches found on this map at the south, southeast and north positions with the **Church #3 Destroyed?** precondition enabled. Unlocks the precondition **All Churches Destroyed?** in CR#06 and CR#07.
+
+### Preconditions Used In This Mission:
+* **Church #3 Destroyed?** - Whether the church in the civilian village was destroyed in CR#03.
+	* Effect: Causes civilians to spawn hostile militia forces and attack your forces and base. Required to unlock Route C.
+* **Oil Refineries Captured** - Whether the northwestern Oil Refineries were captured and preserved during CR#03.
+	* Effect: Grants 3000 additional credits some time after getting an MCV.
+
+</details>
+   
+* * *
+
 
 # Guide to Preconditions in the Covert Revolt Campaign
 
-CR#01: Suppression - No preconditions.
-
-CR#02: ||Covert Strike|| -  ||Church #1 Destroyed? Whether the church in the civilian village was destroyed in the first mission of the campaign.|| Use: ||Needed to unlock Route C.||
-
-CR#03: ||Retake the Industrial Area|| - ||Church #2 Destroyed? Whether the church in the civilian village was destroyed in the second mission of the campaign.|| Use: ||Needed to unlock Route C.||
-
-CR#04: ||Obstruction|| - ||Church #3 Destroyed? Whether the church in the civilian village was destroyed in the third mission of the campaign.|| Use: ||Needed to unlock Route C.||
 
 CR#05: ||Riposte|| - ||Church #3 Destroyed? Whether the church in the civilian village was destroyed in the third mission of the campaign.|| Use: ||Needed to unlock Route C.||
 
