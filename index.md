@@ -1,11 +1,13 @@
+<p style="font-size:28px">Click on a mission from the list below to reveal its preconditions!</p>
+
 <details style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#01: Suppression</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Booga baga
+* Destroy a church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. Unlocks the precondition **Church #1 Destroyed?** in CR#02.
 
 ### Preconditions Used In This Mission:
-* Biga baga
+* None.
 
 </details>
 
@@ -13,50 +15,30 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Booga baga
+* Destroy a church at the south side of the map with the precondition Church #1 Destroyed? enabled. Unlocks the precondition **Church #2 Destroyed?** in CR#03.
 
 ### Preconditions Used In This Mission:
-* Biga baga
+* Church #1 Destroyed? - Whether the church in the civilian village was destroyed in CR#01.
+	* Effect: Causes the priest at the church to betray you, unleashing two attack dogs at you when you approach the church. Required to unlock Route C.
 
 </details>
+   
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#03: Retake the Industrial Area</summary>
 
+### Preconditions Unlocked In This Mission:
+* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition **Church #3 Destroyed?** in CR#05.
+* Capture and Keep the Oil Refineries at the north western part of the map. Unlocks the precondition **Oil Refineries Captured?** in CR#05.
 
-# Testing some stuff
-
-CR#01: Suppression
-Preconditions Unlocked In This Mission:
-
-    Destroy a church at the east side of the map, near the Communication Center that you must capture. Unlocks the precondition Church #1 Destroyed? in CR#02.
-
-Preconditions Used In This Mission:
-
-    None.
-
-CR#02: Covert Strike
-Preconditions Unlocked In This Mission:
-
-    Destroy a church at the south side of the map with the precondition Church #1 Destroyed? enabled. Unlocks the precondition Church #2 Destroyed? in CR#03.
-
-Preconditions Used In This Mission:
-
-    Church #1 Destroyed? - Whether the church in the civilian village was destroyed in CR#01. 
-
-    Effect: Causes the priest at the church to betray you, releasing two attack dogs when you approach.
+### Preconditions Used In This Mission:
+* Church #2 Destroyed? - Whether the church in the south part of the region was destroyed in CR#02. 
+	* Effect: Causes civilians to launch an attack wave on you during the mission..
     Required to unlock Route C.
 
+</details>
+   
 
-CR#03: Covert Strike
-Preconditions Unlocked In This Mission:
-
-    Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition Church #3 Destroyed? in CR#05.
-    Capture and Keep the Oil Refineries at the north western part of the map. Unlocks the precondition Oil Refineries Captured? in CR#05.
-
-Preconditions Used In This Mission:
-
-    Church #2 Destroyed? - Whether the church in the south part of the region was destroyed in CR#02. 
-
-    Effect: Causes civilians to launch an attack wave on you during the mission..
-    Required to unlock Route C.
+    
 
 # Guide to Preconditions in the Covert Revolt Campaign
 
