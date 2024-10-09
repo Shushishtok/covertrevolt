@@ -1,7 +1,7 @@
 <h2>Click on a mission from the list below to reveal its preconditions</h2>
 
 <details style="margin-bottom: 20px">
-<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#01: Suppression</summary>
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#01: Suppression</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Destroy a church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. Unlocks the precondition **Church #1 Destroyed?** in CR#02.
@@ -14,7 +14,7 @@
 * * *
 
 <details style="margin-bottom: 20px">
-<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#02: Covert Strike</summary>
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Destroy a church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. Unlocks the precondition **Church #2 Destroyed?** in CR#03.
@@ -28,7 +28,7 @@
 * * *
    
 <details style="margin-bottom: 20px">
-<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#03: Retake the Industrial Area</summary>
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#03: Retake the Industrial Area</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition **Church #3 Destroyed?** in CR#04 and CR#05.
@@ -43,7 +43,7 @@
 * * *
 
 <details style="margin-bottom: 20px">
-<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#04: Obstruction</summary>
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#04: Obstruction</summary>
 
 ### Preconditions Unlocked In This Mission:
 * None.
@@ -57,7 +57,7 @@
 * * *
 
 <details style="margin-bottom: 20px">
-<summary><p style="font-size:20px;display:inline;font-weight:bold">CR#05: Riposte</summary>
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#05: Riposte</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Destroy the 3 remaining churches found on this map at the south, southeast and north positions with the **Church #3 Destroyed?** precondition enabled. Unlocks the precondition **All Churches Destroyed?** in CR#06 and CR#07.
