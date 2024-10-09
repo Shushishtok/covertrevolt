@@ -1,22 +1,27 @@
-Guide to Preconditions in the Covert Revolt Campaign
+<details>
+<summary>CR#01: Suppression</summary>
 
-CR#01: Suppression
+### Preconditions Unlocked In This Mission:
+* Booga baga
 
-Preconditions Unlocked In This Mission:
+### Preconditions Used In This Mission:
+* Biga baga
 
-Preconditions Used In This Mission:
+</details>
 
-CR#02: Covert Strike
+<details>
+<summary>CR#02: Covert Strike</summary>
 
-Preconditions Unlocked In This Mission:
+### Preconditions Unlocked In This Mission:
+* Booga baga
 
-Preconditions Used In This Mission:
+### Preconditions Used In This Mission:
+* Biga baga
 
-CR#03: Covert Strike
+</details>
 
-Preconditions Unlocked In This Mission:
 
-Preconditions Used In This Mission:
+# Testing some stuff
 
 CR#01: Suppression
 Preconditions Unlocked In This Mission:
