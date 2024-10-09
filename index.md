@@ -11,6 +11,8 @@
 
 </details>
 
+* * *
+
 <details style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#02: Covert Strike</summary>
 
@@ -22,6 +24,8 @@
 	* Effect: Causes the priest at the church to betray you, unleashing two attack dogs at you when you approach the church. Required to unlock Route C.
 
 </details>
+
+* * *
    
 <details style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold">CR#03: Retake the Industrial Area</summary>
@@ -37,7 +41,7 @@
 
 </details>
    
-
+* * *
     
 
 # Guide to Preconditions in the Covert Revolt Campaign
