@@ -1,3 +1,5 @@
+![Covert Revolt Logo](/covertrevolt/assets/images/cr-logo.png)
+
 <h2>Click on a mission from the list below to reveal its preconditions</h2>
 
 <details style="margin-bottom: 20px">
