@@ -1,5 +1,5 @@
 <details>
-<summary>CR#01: Suppression</summary>
+<summary><p style="font-size:30px;display:inline;font-weight:bold">CR#01: Suppression</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Booga baga
@@ -10,7 +10,7 @@
 </details>
 
 <details>
-<summary>CR#02: Covert Strike</summary>
+<summary><p style="font-size:30px;display:inline;font-weight:bold">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
 * Booga baga
