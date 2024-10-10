@@ -1,11 +1,11 @@
 <h2>Click on a mission from the list below to reveal its preconditions</h2>
 
-<details style="margin-bottom: 20px">
+<details id="cr01" style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#01: Suppression</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. 
-	* Unlocks the precondition **Church #1 Destroyed?** in CR#02.
+* Destroy the church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. 
+	* Unlocks the precondition **Church #1 Destroyed?** in [CR#02](#cr02).
 
 ### Preconditions Used In This Mission:
 * None.
@@ -14,11 +14,11 @@
 
 * * *
 
-<details style="margin-bottom: 20px">
+<details id="cr02" style="margin-bottom: 20px">
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. 
+* Destroy the church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. 
 	* Unlocks the precondition **Church #2 Destroyed?** in CR#03.
 
 ### Preconditions Used In This Mission:
@@ -33,7 +33,7 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#03: Retake the Industrial Area</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. 
+* Destroy the church at the south-east side of the map with the precondition **Church #2 Destroyed?** enabled. 
 	* Unlocks the precondition **Church #3 Destroyed?** in CR#04 and CR#05.
 * Capture and Keep the Oil Refineries at the north western part of the map. Unlocks the precondition **Oil Refineries Captured?** in CR#05.
 
@@ -135,7 +135,7 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#09: Sensory Escort</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy the Nod units located south to the shore that the player moves the escort through, freeing the GDI units from being sieged. 
+* Destroy the Nod units located south of the civilian village, along the shore, freeing the GDI units from being sieged. 
 	* Unlocks the **GDI Forces Freed?** precondition in CRA#10.
 
 ### Preconditions Used In This Mission:
