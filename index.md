@@ -4,7 +4,8 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#01: Suppression</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. Unlocks the precondition **Church #1 Destroyed?** in CR#02.
+* Destroy a church in the town at the east side of the map, near the Communication Center that you must capture for the first objective. 
+	* Unlocks the precondition **Church #1 Destroyed?** in CR#02.
 
 ### Preconditions Used In This Mission:
 * None.
@@ -17,7 +18,8 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#02: Covert Strike</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. Unlocks the precondition **Church #2 Destroyed?** in CR#03.
+* Destroy a church at the south side of the map with the precondition **Church #1 Destroyed?** enabled. 
+	* Unlocks the precondition **Church #2 Destroyed?** in CR#03.
 
 ### Preconditions Used In This Mission:
 * **Church #1 Destroyed?** - Whether the church in the civilian village was destroyed in CR#01.
@@ -31,7 +33,8 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#03: Retake the Industrial Area</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. Unlocks the precondition **Church #3 Destroyed?** in CR#04 and CR#05.
+* Destroy a church at the south-east side of the map with the precondition Church #2 Destroyed? enabled. 
+	* Unlocks the precondition **Church #3 Destroyed?** in CR#04 and CR#05.
 * Capture and Keep the Oil Refineries at the north western part of the map. Unlocks the precondition **Oil Refineries Captured?** in CR#05.
 
 ### Preconditions Used In This Mission:
@@ -60,7 +63,8 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#05: Riposte</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy the 3 remaining churches found on this map at the south, southeast and north positions with the **Church #3 Destroyed?** precondition enabled. Unlocks the precondition **All Churches Destroyed?** in CR#06 and CR#07.
+* Destroy the 3 remaining churches found on this map at the south, southeast and north positions with the **Church #3 Destroyed?** precondition enabled. 
+	* Unlocks the precondition **All Churches Destroyed?** in CR#06 and CR#07.
 
 ### Preconditions Used In This Mission:
 * **Church #3 Destroyed?** - Whether the church in the civilian village was destroyed in CR#03.
@@ -76,7 +80,8 @@
 <summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CR#06: Forward Momentum</summary>
 
 ### Preconditions Unlocked In This Mission:
-* Destroy the 3 Shore Artilleries located at the north west section of the map. Unlocks the **Extra Naval Route Opened?** precondition in CR#07.
+* Destroy the 3 Shore Artilleries located at the north west section of the map. 
+	* Unlocks the **Extra Naval Route Opened?** precondition in CR#07.
 
 ### Preconditions Used In This Mission:
 * **All Churches Destroyed?** - Whether all 5 churches were destroyed from CR#01 to CR#05.
@@ -91,11 +96,12 @@
 
 ### Preconditions Unlocked In This Mission:
 * Evacuate the civilians at the southern island by destroying the Shore Artilleries preventing the transport from leaving. Can only be done with the **All Churches Destroyed?** precondition set to "No". Unlocks the **Civilians Evacuated?** precondition in CR#08.
-* Kill all the civilians at the southern island and the Soviet base that accompanies them. Can only be done with the **All Churches Destroyed** set to "Yes". Unlocks the **Civilian Village Destroyed?** precondition in CR#08.
+* Kill all the civilians at the southern island and the Soviet base that accompanies them. Can only be done with the **All Churches Destroyed** set to "Yes". 
+	* Unlocks the **Civilian Village Destroyed?** precondition in CR#08.
 
 ### Preconditions Used In This Mission:
 * **Extra Naval Route Opened?** - Whether the 3 Shore Artilleries were destroyed at CR#06.
-	* Effect: Spawns 3 additional GDI reinforcements of 3 Frigates and 2 Gunboats some time after reaching the second main island. 
+	* Effect: Spawns an additional GDI reinforcements of 3 Frigates and 2 Gunboats some time after reaching the second main island. 
 * **All Churches Destroyed?** - Whether all 5 churches were destroyed from CR#01 to CR#05.
 	* Effect: Causes the civilians to side with the Soviets, assisting them in creating a base at the southern island. Adds a new mandatory objective to destroy the new southern Soviet base and the entire village, and adjusts some of the texts of the map.
 
@@ -121,42 +127,112 @@
 
 </details>
    
-* * *
+
 
 # Route A
 
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#09: Sensory Escort</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the Nod units located south to the shore that the player moves the escort through, freeing the GDI units from being sieged. 
+	* Unlocks the **GDI Forces Freed?** precondition in CRA#10.
+
+### Preconditions Used In This Mission:
+* None.
+
+</details>
+   
 * * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#10: Tiberium Denial</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the cluster of 6 power plants located at the southeast Soviet base. 
+	* Unlocks the **Power Facility Destroyed?** precondition in CRA#12.
+
+### Preconditions Used In This Mission:
+* **GDI Forces Freed?** - Whether the GDI forces released from the Nod siege in CRA#09.
+	* Effect: Grants a GDI reinforcement of 2 Mammoths and 3 Grenade Launchers to the player after some time through the sea to the west.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#11: Pincer Movement</summary>
+
+### Preconditions Unlocked In This Mission:
+* None.
+
+### Preconditions Used In This Mission:
+* None.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#12: Counter-Revolt</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the two Nod bases on the north of the map.
+	* Unlocks the **Nod City Base Destroyed?** precondition in CRA#14.
+
+### Preconditions Used In This Mission:
+* **Power Facility Destroyed?** - Whether the power plant cluster at the south-eastern Soviet base were destroyed in CRA#10.
+	* Effect: Disables most of the Tesla Coils on the map.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#13: Breaking a Path</summary>
+
+### Preconditions Unlocked In This Mission:
+* Destroy the Soviet and Nod forces laying siege on Toikka's forces located to the south.
+	* Unlocks the **Co-Commander's Forces Saved?** precondition in CRA#14.
+
+### Preconditions Used In This Mission:
+* None.
+
+</details>
+   
+* * *
+
+<details style="margin-bottom: 20px">
+<summary><p style="font-size:20px;display:inline;font-weight:bold;cursor:pointer">CRA#14: Crushed Revolt</summary>
+
+### Preconditions Unlocked In This Mission:
+* None.
+
+### Preconditions Used In This Mission:
+* **Co-Commander's Forces Saved?** - Whether Toikka's forces were released from the Nod and Soviet siege in CRA#13.
+	* Effect: Grants a reinforcements of 4 Light Tanks, 4 Rangers, 6 Tank Destroyers, and an APC holding 3 Machine Gunners and 2 Rocket Soldiers after some time. 
+* **Nod City Base Destroyed?** - Whether the couple Nod bases were destroyed in CRA#12.
+	* Effect: Grants an AI controlled GDI reinforcements of 10 Mammoth Tanks, 8 Medium Tanks, 4 MLRSs, 8 Grenade Launchers, 2 Orcas and 1 A-10 to assist you in the fight. 
+
+### Important Notes For This Mission:
+* This is the finale for Route A. The ending that the player gets is based on whether the **Co-Commander's Forces Saved?** precondition is set to "Yes". 
+	* If the precondition was set to "No", the player will get Ending I. Otherwise, the player will get Ending II.
+* At the north side of the map, near the Metallic Nod's temple, there is a Comm. Center that can be captured. Doing so unlocks a bonus mission that will be introduced later to the campaign.
+
+</details>
+   
+
 
 # Route B
 
-* * *
+
 
 # Route C
 
-* * *
+
 
 # Guide to Preconditions in the Covert Revolt Campaign
 
-
-CR#08: ||The Cleaver|| - ||Civilians Evacuated? Were the civilians evacuated in mission #7?|| Use: ||Needed to unlock Route B.||
-
-||Civilian Village Destroyed? Was the civilian village destroyed in mission #7?|| Use: ||Needed to unlock Route C.||
-
-||These two preconditions are mutually exclusive. You cannot launch the mission with both preconditions set to “Yes”.||
-
-CR Route A #09: ||Sensory Escort|| - No preconditions.
-
-CR Route A #10: ||Tiberium Denial|| - ||GDI Forces Freed? Were the blocked GDI forces freed in CR Route A Mission #9?|| Use: ||Gives you more reinforcements in this mission.||
-
-CR Route A #11: ||Pincer Movement|| - No preconditions.
-
-CR Route A #12: ||Counter-Revolt|| - ||Power Facility Destroyed? Was the Tiberium power facility destroyed in CR Route A Mission #10?|| Use: ||Some Tesla Coils are powered down in this mission.||
-
-CR Route A #13: ||Breaking a Path|| - No preconditions.
-
-CR Route A #14 (Finale): ||Crushed Revolt|| - ||Co-Commander's Forces Saved? Were Toikka's forces freed from Nod's siege in CR Route A Mission #13?|| Use: ||Affects which ending you get and gives you additional reinforcements in this mission.||
-
-||Nod City Base Destroyed? Was the Nod City base destroyed in CR Route A Mission #12?|| Use: ||Affects which ending you get and spawns a GDI attack wave to help you in this mission.||
 
 CR Route B #09: ||Investigation|| - No preconditions.
 
