@@ -264,7 +264,7 @@
 * **Radar Spied?** - Whether the Spy has infiltrated the Radar Dome at Ivanov's base in [CRB#09](#crb09).
 	* Effect: Reveals key positions in all enemy bases and outposts, alongside the Soviet's War Factory and a group of 4 Oil Refineries. This occurs some time after the game starts.
 
-* **Ore Truck Saved** - Whether the Ore Truck was found and preserved in [CRB#10](#crb10).
+* **Ore Truck Saved?** - Whether the Ore Truck was found and preserved in [CRB#10](#crb10).
 	* Effect: Spawns an additional Ore Truck near the starting position shortly after capturing the Ore Refinery in the outpost.
 
 </details>
@@ -304,7 +304,7 @@
 
 ### Preconditions Unlocked In This Mission:
 * Use an engineer to repair the ruined civilian villa located at the east side of the map, past the river. Then, make sure Yarvelja, which comes out of the structure as a Soviet Commando (looks like Volkov) survives until the end of the mission.
-	* Unlocks the **Accept Yarvelja's Offer?** precondition in [CRB#15](3crb15).
+	* Unlocks the **Accept Yarvelja's Offer?** precondition in [CRB#15](#crb15).
 
 ### Preconditions Used In This Mission:
 * None.
