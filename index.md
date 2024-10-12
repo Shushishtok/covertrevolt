@@ -494,14 +494,13 @@
 
 ### Preconditions Used In This Mission:
 * **Toikka Saved?** - Whether Toikka's base was kept intact in [CRC#14](#crc14).
-	* Effect: Shortly after the game starts, Toikka will enter in with a force and a MCV and start a base to the south, assisting Ivanov against the player. This replaces one of Ivanov's bases that usually set up, which spawned much later in the game. Also affects the ending.
+	* Effect: Shortly after the game starts, Toikka will enter in with a force to attack the player, alongisde a MCV that starts a base to the south, assisting Ivanov against the player. This replaces one of Ivanov's bases that usually set up, which spawned much later in the game. The player must also destroy Toikka's base to complete the mission. Additionally, Toikka spawns a massive attack wave against the player some time after deploying the base.
 
 ### Important Notes For This Mission:
 * This is the alternate finale for Route C. The ending that depends on whether the player has managed to destroy the Comm. Centers located in this mission before the timer runs out.
 	* There are three Comm. Centers located at the north-east, south-east, and south-west positions of the map. Destroying each of those Comm. Centers will extend the timer slightly. If all three Comm. Centers are destroyed before the time runs out, the timer stops, marking it as a success. Otherwise, if the timer expires, it is marked as a failure. The player can still beat the mission regardless.
 
 	* If the Comm. Centers were not destroyed in time, the player will get ending IX. Otherwise, the player will get ending X.
-
 
 </details>
    
